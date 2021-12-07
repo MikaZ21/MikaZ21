@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikaZ21
 - 👀 I’m interested in programming and Web design.
-- 🌱 I’m currently learning Object-oriented Programming!
+- 🌱 I’m currently learning Angular!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 📧
 
