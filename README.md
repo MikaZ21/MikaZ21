@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MikaZ21
-- 👀 I’m interested in programming and Web design.
+- 👀 I am looking to be a software engineer. 
 - 🌱 I’m currently learning Angular!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 📧
