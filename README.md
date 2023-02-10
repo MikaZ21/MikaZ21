@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MikaZ21
-- 👀 I am looking to be a software engineer. 
-- 🌱 I’m currently learning Angular!
+- Hello👋, I’m @MikaZ21
+- 👀 I am looking to be a Web Developer. 
+- 🌱 I’m currently learning Front-end Development!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 📧
 
