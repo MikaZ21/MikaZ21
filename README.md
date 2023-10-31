@@ -1,6 +1,6 @@
 - Hello👋, I’m @MikaZ21
 - 👀 I am looking to be a Web Developer. 
-- 🌱 I’m currently learning Front-end Development!
+- 🌱 I’m currently learning Full-Stack Development!
 - 💞️ I'm looking for opportunity to grow in a real work environment.
 - 📫 How to reach me 📧 zukeyamamika@gmail.com
 
