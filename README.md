@@ -1,4 +1,4 @@
-### 👋 Hello, I’m Mika!
+## 👋 Hello, I’m Mika!
 
   🌱 Studied [Full-Stack Development Program](https://www.linkedin.com/in/mika-zukeyama/) at Nexul Academy and LaunchCode in St.Louis, Missouri.<br/>
   💡 Actively seeking opportunities to grow and contribute as a Web developer in a real work environment.<br/>
