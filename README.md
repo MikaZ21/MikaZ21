@@ -6,6 +6,10 @@
 
 In my free time, I enjoy cooking and gardening 🥘🧡🪴 [myInstagram](https://www.instagram.com/frangipani.forever/)
 
+
+[![Mika's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaZ21&show_icons=true&theme=maroongold)](https://github.com/MikaZ21/github-readme-stats)
+
+
 <!---
 MikaZ21/MikaZ21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
