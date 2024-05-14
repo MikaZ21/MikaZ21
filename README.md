@@ -6,10 +6,10 @@
 
 In my free time, I enjoy cooking and gardening 🥘🧡🪴 [myInstagram](https://www.instagram.com/frangipani.forever/)
 
-
+### 💻 GitHub Stats
 [![Mika's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaZ21&show_icons=true&theme=gruvbox&hide=contribs)](https://github.com/MikaZ21/github-readme-stats)
 
-
+### 📊 Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaZ21&layout=compact)
 
 <!---
