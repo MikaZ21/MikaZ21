@@ -1,6 +1,6 @@
 ![GitHub-header](https://github.com/MikaZ21/skinet/assets/93892096/0f941872-05b1-45b8-bfa1-15c3e3bdd672)
 
-## 👋 Hello, I’m Mika!
+## 👋 The Path Behind My Code ~ Learning and Growth
 
   🌱 Studied [Full-Stack Development](https://www.linkedin.com/in/mika-zukeyama/) at Nexul Academy and LaunchCode in St.Louis, Missouri.<br/>
   💡 Actively seeking opportunities to grow and contribute as a Web developer in a real work environment.<br/>
