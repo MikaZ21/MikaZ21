@@ -1,4 +1,6 @@
-![GitHub-header](https://github.com/MikaZ21/skinet/assets/93892096/0f941872-05b1-45b8-bfa1-15c3e3bdd672)
+<!--- ![GitHub-header](https://github.com/MikaZ21/skinet/assets/93892096/0f941872-05b1-45b8-bfa1-15c3e3bdd672) --->
+![Header](./![github-header-image](https://github.com/user-attachments/assets/432e021c-2960-4afe-941d-f731174b3732)
+)
 
 ## 👋 The Path Behind My Code ~ Learning and Growth
 
