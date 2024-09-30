@@ -6,7 +6,7 @@
 ## 👋 The Path Behind My Code ~ Learning and Growth
 
   🌱 Studied [Full-Stack Development](https://www.linkedin.com/in/mika-zukeyama/) at Nexul Academy and LaunchCode in St.Louis, Missouri.<br/>
-  💡 Actively seeking opportunities to grow and contribute as a Web developer in a real work environment.<br/>
+  💡 Focus on front-end web development and am eager to expand my skills by learning new technologies to create meaningful products for users.<br/>
   📫 How to reach me 📧 zukeyamamika@gmail.com<br/>
 
 In my free time, I enjoy cooking and gardening 🥘🧡🪴 [myInstagram](https://www.instagram.com/frangipani.forever/)
